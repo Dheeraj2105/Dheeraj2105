@@ -1,38 +1,17 @@
-# Hi 👋, I'm Janga
+<h1 align="center">Hi 👋, I'm Janga</h1>
 
-### Aspiring Software Engineer | Full Stack Developer | DSA | AI/ML
+<h3 align="center">
+Aspiring Software Engineer | Full Stack Developer | DSA | AI/ML
+</h3>
 
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech CSE (AI & ML)
-- 💻 Passionate about Software Development
-- 🌱 Currently learning Full Stack Development & Agentic AI
-- 📚 Solving Data Structures & Algorithms daily
-- 🚀 Building real-world projects
-- 📍 Hyderabad, India
+<p align="center">
+Passionate about building scalable applications, solving complex problems, and exploring AI-powered solutions.
+</p>
 
 ---
-
-## 🌐 Connect with Me
-
-Coming Soon...
-
----
-
-## 💻 Tech Stack
-
-Coming Soon...
-
----
-
-## 📂 Featured Projects
-
-Coming Soon...
-
----
-
-## 📊 GitHub Stats
-
-Coming Soon...
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Technologies" />
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Dheeraj2105&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
