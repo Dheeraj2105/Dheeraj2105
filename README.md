@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Janga</h1>
-<h3 align="center">Aspiring Software Engineer • Full Stack Developer • AI/ML Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer •  AI/ML Engineer • Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineer+in+the+making;Full+Stack+Developer+%7C+MERN+%2B+Flask;AI%2FML+%E2%80%94+Deep+Learning%2C+NLP%2C+Computer+Vision;Building+AI+Agents+%26+Scalable+Systems;Solving+DSA+every+single+day" />
