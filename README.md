@@ -1,145 +1,120 @@
-<h1 align="center">Hi 👋, I'm Dheeraj</h1>
-
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer | DSA | AI/ML</h3>
+<h1 align="center">Hi 👋, I'm Dheeraj Janga</h1>
+<h3 align="center">Aspiring Software Engineer • Full Stack Developer • AI/ML Enthusiast</h3>
 
 <p align="center">
-Passionate about building scalable applications, solving complex problems, and exploring AI-powered technologies.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineer+in+the+making;Full+Stack+Developer+%7C+MERN+%2B+Flask;AI%2FML+%E2%80%94+Deep+Learning%2C+NLP%2C+Computer+Vision;Building+AI+Agents+%26+Scalable+Systems;Solving+DSA+every+single+day" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring Software Engineer with a strong foundation in AI & Machine Learning.;Full+Stack+Developer;Interested in AI Automation, AI Agents, and scalable software systems;Always+Learning+New+Technologies" />
+  <a href="https://www.linkedin.com/in/dheeraj-janga/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jangadheeraj21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="YOUR_GFG"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dheeraj2105&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Dheeraj2105&label=Profile%20Views&color=00bfff&style=flat" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (AI & ML)
-- 💻 Aspiring Software Engineer passionate about building impactful software
-- 🌱 Currently learning Full Stack Development, Agentic AI & System Design
-- 🧠 Solving Data Structures & Algorithms daily
-- 🚀 Building real-world projects
-- 🤝 Open to collaboration on Full Stack & AI projects
+- 🎓 **B.Tech CSE (AI & ML)** — SRM Institute of Science and Technology · CGPA 8.93
+- 💼 **Ex-Intern** — NIT Calicut (NLP Research) · SRMIST ACM SIGKDD R&D · Codsoft (ML)
+- ☁️ **AWS Certified** — AI Practitioner & Cloud Practitioner
+- 🌱 Currently deep-diving into **Full Stack Development, Agentic AI & System Design**
+- 🧠 Grinding **DSA daily** for SDE interviews
+- 🤝 Open to collaborating on **Full Stack & AI projects**
 - 📍 Hyderabad, India
 
 ---
 
-# 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/dheeraj-janga/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:jangadheeraj21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="YOUR_GFG"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,mysql"/>
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+</p>
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+**AI / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
+  <img height="48" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img height="48" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img height="48" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,postman"/>
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 📂 Featured Projects
 
-### 👨‍💻 Languages
+| Project | Description | Tech |
+|---|---|---|
+| 🧠 **Neuralis** | Parkinson's disease detection from voice using CNN + custom STRN architecture | Python, TensorFlow, Signal Processing |
+| 🌍 **WanderGenie** | AI-powered smart tourism platform — personalized itineraries & recommendations | React, Node.js, Flask, MySQL |
+| 📝 **NLP User Story → UML Generator** | Auto-generates UML diagrams from natural-language user stories (NIT Calicut) | Python, NLP, spaCy |
+| 💳 **Credit Card Fraud Detection** | ML pipeline for detecting fraudulent transactions on imbalanced data | Scikit-learn, Pandas |
+| 🏭 **Industrial Risk Detection** | Real-time hazard detection system for industrial environments | OpenCV, Deep Learning |
+| 🕳️ **Smart Manhole Monitoring** | IoT-based monitoring & alert system for urban safety | IoT, Sensors, Cloud |
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,mysql"/>
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,"/>
-</p>
+> 🔗 Pin your top 6 repos so they appear right below this section.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dheeraj2105&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj2105&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj2105&theme=github-dark-blue&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj2105&theme=github-compact&hide_border=true"/>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dheeraj2105&theme=algolia&no-frame=true&margin-w=10&row=1&column=7"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🏅 Coding Profiles
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+  <a href="YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="YOUR_GFG"><img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+<h3 align="center">⚡ Code. Learn. Build. Repeat.</h3>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# 📂 Featured Projects
-
-- 🚀 NLP User Story → UML Generator
-- 🎵 Music Recommendation System
-- 💳 Credit Card Fraud Detection
-- 🏭 Industrial Risk Detection System
-- 🕳️ Smart Manhole Monitoring System
-- 🌐 Personal Portfolio Website
-
----
-
-# 🏅 Coding Profiles
-
-- 💻 LeetCode
-- 📘 GeeksforGeeks
-
----
-
-
-
-# ⚡ Fun Fact
-
-> *"Code. Learn. Build. Repeat."*
-
----
-
-<p align="center">
-⭐ If you like my work, consider giving a star to my repositories!
+  ⭐ If you find my work interesting, consider starring a repo — it keeps the streak alive!
 </p>
