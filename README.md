@@ -132,16 +132,7 @@ Passionate about building scalable applications, solving complex problems, and e
 
 ---
 
-# 🌱 Currently Learning
 
-- Full Stack Development
-- Agentic AI
-- System Design
-- Advanced DSA
-
-
-
----
 
 # ⚡ Fun Fact
 
