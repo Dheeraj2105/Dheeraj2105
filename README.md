@@ -22,10 +22,9 @@
 ## 🚀 About Me
 
 - 🎓 **B.Tech CSE (AI & ML)** — SRM Institute of Science and Technology · CGPA 8.93
-- 💼 **Ex-Intern** — NIT Calicut (NLP Research) · SRMIST ACM SIGKDD R&D · Codsoft (ML)
+- 💼 **Intern@** — NIT Calicut (NLP Research) · SRMIST ACM SIGKDD R&D · Codsoft (ML)
 - ☁️ **AWS Certified** — AI Practitioner & Cloud Practitioner
 - 🌱 Currently deep-diving into **Full Stack Development, Agentic AI & System Design**
-- 🧠 Grinding **DSA daily** for SDE interviews
 - 🤝 Open to collaborating on **Full Stack & AI projects**
 - 📍 Hyderabad, India
 
@@ -63,7 +62,7 @@
 
 **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,postman"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws"/>
 </p>
 
 ---
@@ -76,33 +75,12 @@
 | 🌍 **WanderGenie** | AI-powered smart tourism platform — personalized itineraries & recommendations | React, Node.js, Flask, MySQL |
 | 📝 **NLP User Story → UML Generator** | Auto-generates UML diagrams from natural-language user stories (NIT Calicut) | Python, NLP, spaCy |
 | 💳 **Credit Card Fraud Detection** | ML pipeline for detecting fraudulent transactions on imbalanced data | Scikit-learn, Pandas |
-| 🏭 **Industrial Risk Detection** | Real-time hazard detection system for industrial environments | OpenCV, Deep Learning |
-| 🕳️ **Smart Manhole Monitoring** | IoT-based monitoring & alert system for urban safety | IoT, Sensors, Cloud |
 
 > 🔗 Pin your top 6 repos so they appear right below this section.
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dheeraj2105&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj2105&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj2105&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj2105&theme=github-compact&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dheeraj2105&theme=algolia&no-frame=true&margin-w=10&row=1&column=7"/>
-</p>
-
----
 
 ## 🏅 Coding Profiles
 
