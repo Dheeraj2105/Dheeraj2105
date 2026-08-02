@@ -66,7 +66,16 @@
 </p>
 
 ---
+## 📚 CS Fundamentals
 
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-E76F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-2C3E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBMS%20%26%20SQL-00758F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-16A085?style=for-the-badge"/>
+</p>
 ## 📂 Featured Projects
 
 | Project | Description | Tech |
