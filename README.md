@@ -31,9 +31,9 @@ Passionate about building scalable applications, solving complex problems, and e
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dheeraj-janga/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:jangadheeraj21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="YOUR_GFG"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
@@ -45,7 +45,7 @@ Passionate about building scalable applications, solving complex problems, and e
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,mysql"/>
 </p>
 
 ### 🎨 Frontend
@@ -81,7 +81,7 @@ Passionate about building scalable applications, solving complex problems, and e
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,"/>
 </p>
 
 ---
