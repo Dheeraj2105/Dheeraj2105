@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 - 🎓 **B.Tech CSE (AI & ML)** — SRM Institute of Science and Technology · CGPA 8.93
-- 💼 **Intern@** — NIT Calicut (NLP Research) · SRMIST ACM SIGKDD R&D · Codsoft (ML)
+- 💼 **Interned@** — NIT Calicut (NLP Research) · SRMIST ACM SIGKDD R&D · Codsoft (ML)
 - ☁️ **AWS Certified** — AI Practitioner & Cloud Practitioner
 - 🌱 Currently deep-diving into **Full Stack Development, Agentic AI & System Design**
 - 🤝 Open to collaborating on **Full Stack & AI projects**
@@ -94,5 +94,5 @@
 <h3 align="center">⚡ Code. Learn. Build. Repeat.</h3>
 
 <p align="center">
-  ⭐ If you find my work interesting, consider starring a repo — it keeps the streak alive!
+  ⭐ If you find my work interesting, consider starring a repo!! 😉 
 </p>
